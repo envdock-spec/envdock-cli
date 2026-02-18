@@ -48,6 +48,7 @@ EnvDock is smart. You store your secret **once**, and we format it for whatever 
 npm install -g envdock-cli
 
 ```
+WARN envdock-cli@1.0.0 should be installed with -g
 
 ---
 
