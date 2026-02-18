@@ -15,6 +15,15 @@ Secure, synchronized, and runtime-injected secrets for developers and teams.
 
 ---
 
+## 📦 Installation
+
+```bash
+npm install -g envdock-cli
+WARN envdock-cli@1.0.0 should be installed with -g
+```
+
+---
+
 ## 🚀 Why EnvDock?
 
 Managing secrets is broken. You have `.env.local`, `.env.production`, and sensitive keys pasted in chat history. **EnvDock fixes this.**
@@ -39,16 +48,6 @@ EnvDock is smart. You store your secret **once**, and we format it for whatever 
 | **React (CRA)** | `REACT_APP_API_URL` | `process.env.REACT_APP_API_URL` |
 | **Vite** | `VITE_API_URL` | `import.meta.env.VITE_API_URL` |
 | **Python** | `API_URL` | `os.getenv('API_URL')` |
-
----
-
-## 📦 Installation
-
-```bash
-npm install -g envdock-cli
-
-```
-WARN envdock-cli@1.0.0 should be installed with -g
 
 ---
 
