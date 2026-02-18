@@ -9,7 +9,7 @@
 
 Secure, synchronized, and runtime-injected secrets for developers and teams.
 
-**[Get Started for Free](https://www.google.com/search?q=https://envdock.cloud)** • **[Read the Documentation](https://www.google.com/search?q=https://envdock.cloud/docs)**
+**[Get Started for Free](https://envdock.cloud)** • **[Read the Documentation](https://envdock.cloud/docs)**
 
 </div>
 
@@ -280,7 +280,7 @@ Clears local credentials and removes the session token.
 
 ## 📄 License
 
-MIT © [EnvDock](https://www.google.com/search?q=https://envdock.cloud)
+MIT © [EnvDock](https://envdock.cloud)
 
 <div align="center">
 <sub>Built for developers who value security and speed.</sub>
